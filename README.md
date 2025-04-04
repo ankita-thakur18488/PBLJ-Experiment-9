@@ -17,5 +17,5 @@
 ### How to Submit (ZIP File)
 - Ensure all required files are included (HTML, JSP, Servlet .java files, web.xml, database scripts).
 - Test your project on Tomcat before submission.
-- Zip the complete folder and name it Exp8_YourName/uid.zip.
+- Zip the complete folder and name it Exp9_YourName/uid.zip.
 
