@@ -4,15 +4,15 @@
 ### Spring Framework
 Spring is a lightweight Java framework for building enterprise applications. It provides features like Dependency Injection (DI), Inversion of Control (IoC), and simplifies web development using Spring MVC and Spring Boot.
 
---
+-----
 ### Hibernate ORM
 Hibernate is an Object Relational Mapping (ORM) tool for Java. It maps Java classes to database tables, simplifies CRUD operations, and reduces the need for boilerplate SQL code.
 
---
+-----
 ### Spring + Hibernate Integration
 Spring manages application layers and transactions, while Hibernate handles database interactions. Together, they enable clean, scalable, and maintainable enterprise application development.
 
---
+-----
 
 ## Topic Covered
 - Introduction, Spring IoC, Dependency Injection, Hibernate ORM, annotations, configuration,
